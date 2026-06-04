@@ -8,16 +8,6 @@
 
 <table>
 <tr>
-<td width="35%" align="center">
-
-<img src="https://github.com/ceciliaLimaa.png" width="180px" style="border-radius:50%;" />
-
-### Ana Cecília Lima Alexandre
-
-**QA Analyst | Analista de Testes**
-
-📍 Garanhuns - PE  
-💼 Quality Assurance  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-ana-cecilia-lima/)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ceciliaLimaa)
