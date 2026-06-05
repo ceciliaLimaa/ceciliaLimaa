@@ -108,12 +108,6 @@ Atualmente estou evoluindo meus estudos em **automação com Cypress, Playwright
 Validação funcional, análise de dados, execução em massa e testes de performance realizados na <b>Official Joke API</b> utilizando <b>Postman</b>.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Testing-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Performance-7C3AED?style=for-the-badge"/>
-</p>
-
 <b>Competências:</b>
 
 <ul>
@@ -147,12 +141,6 @@ Validação funcional, análise de dados, execução em massa e testes de perfor
 
 <p>
 Análise e validação de uma aplicação Full Stack composta por API REST em Spring Boot e interface web em ReactJS.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/QA_Testing-2563EB?style=for-the-badge"/>
 </p>
 
 <b>Competências:</b>
@@ -192,12 +180,6 @@ Análise e validação de uma aplicação Full Stack composta por API REST em Sp
 Repositório dedicado à criação de cenários, casos de teste, documentação de bugs, evidências e relatórios de execução.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Testes_Manuais-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bugs-EA4335?style=for-the-badge"/>
-</p>
-
 <b>Competências:</b>
 
 <ul>
@@ -233,12 +215,6 @@ Repositório dedicado à criação de cenários, casos de teste, documentação 
 Projeto de evolução profissional com foco em automação de testes end-to-end utilizando Cypress e JavaScript.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/E2E_Testing-9333EA?style=for-the-badge"/>
-</p>
-
 <b>Competências:</b>
 
 <ul>
@@ -267,102 +243,6 @@ Projeto de evolução profissional com foco em automação de testes end-to-end 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Estatísticas QA
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=D6B56D&center=true&vCenter=true&width=850&lines=API+Testing+com+Postman;Testes+Manuais+e+Funcionais;SQL+para+valida%C3%A7%C3%A3o+de+dados;Automa%C3%A7%C3%A3o+em+evolu%C3%A7%C3%A3o+com+Cypress+e+Playwright;QA+com+IA+e+melhoria+cont%C3%ADnua" />
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧪 API Testing
-
-**Postman • Swagger • JSON**
-
-100+ requisições executadas  
-Validação de contratos  
-Cenários positivos e negativos  
-Relatórios de execução  
-
-</td>
-
-<td width="33%" align="center">
-
-### 🐞 Testes Manuais
-
-**Funcional • Regressão • Exploratório**
-
-Análise de requisitos  
-Casos de teste  
-Evidências organizadas  
-Reporte de bugs  
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗄️ SQL para QA
-
-**Consultas • Dados • Regras**
-
-Validação de banco  
-Investigação de bugs  
-Regras de negócio  
-Apoio à análise técnica  
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-
-### 🤖 Automação
-
-**Cypress • Playwright • JS**
-
-Testes E2E  
-Assertions  
-Page Objects  
-Estudos contínuos  
-
-</td>
-
-<td width="33%" align="center">
-
-### 📈 Qualidade
-
-**Processo • Produto • Valor**
-
-Análise de risco  
-Melhoria contínua  
-Foco no usuário  
-Comunicação com o time  
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 QA + IA
-
-**Prompt • LLMs • Estratégia**
-
-Geração de cenários  
-Apoio à documentação  
-Análise de requisitos  
-Evolução profissional  
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
