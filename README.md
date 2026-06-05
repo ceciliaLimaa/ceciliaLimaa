@@ -9,10 +9,6 @@
 <table>
 <tr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-ana-cecilia-lima/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ceciliaLimaa)
-[![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacecilialima.ale@gmail.com)
-
 </td>
 
 <td width="65%">
@@ -26,6 +22,22 @@ Tenho um perfil **analítico, cuidadoso, comunicativo e organizado**, com foco e
 Atuo com olhar crítico desde o entendimento do requisito até a validação final da entrega, buscando não apenas encontrar bugs, mas contribuir para produtos mais consistentes, claros e confiáveis.
 
 Atualmente estou evoluindo meus estudos em **automação com Cypress, Playwright, CI/CD e QA com IA**.
+
+---
+
+<div align="center">
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="mailto:anacecilialima.ale@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
 
 </td>
 </tr>
