@@ -86,42 +86,283 @@ Atualmente estou evoluindo meus estudos em **automação com Cypress, Playwright
 
 </div>
 
-## 📌 Projetos em destaque
+---
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=D6B56D&center=true&vCenter=true&width=850&lines=Projetos+que+demonstram+minha+forma+de+pensar+como+QA;Testes+de+API+%7C+Documenta%C3%A7%C3%A3o+%7C+Evid%C3%AAncias+%7C+An%C3%A1lise+de+Riscos;Qualidade+com+foco+em+produto%2C+usu%C3%A1rio+e+resultado" />
+
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🧪 QA Challenge - API de Piadas
+<h3>🧪 QA Challenge - API de Piadas</h3>
 
-Validação funcional, análise de dados e testes de performance realizados na Official Joke API utilizando Postman.
+<p>
+Validação funcional, análise de dados, execução em massa e testes de performance realizados na <b>Official Joke API</b> utilizando <b>Postman</b>.
+</p>
 
-Competências demonstradas:
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Testing-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance-7C3AED?style=for-the-badge"/>
+</p>
 
-API Testing
-Postman
-Testes Funcionais
-Testes de Performance
-Análise de Riscos
-Relatórios Executivos
-Validação de Dados
+<b>Competências:</b>
 
-📊 Destaques:
+<ul>
+<li>API Testing</li>
+<li>Validação de campos e contratos</li>
+<li>Testes de performance</li>
+<li>Análise de riscos</li>
+<li>Relatórios executivos</li>
+</ul>
 
-✔ 100 requisições executadas
+<b>Destaques:</b>
 
-✔ Validação de unicidade de IDs
+<ul>
+<li>100 requisições executadas</li>
+<li>Validação de unicidade de IDs</li>
+<li>10 usuários virtuais simultâneos</li>
+<li>Identificação de riscos e melhorias</li>
+</ul>
 
-✔ Testes de carga com usuários simultâneos
+<p align="center">
+<a href="https://github.com/ceciliaLimaa/API-Piadas">
+<img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-✔ Identificação de riscos e melhorias
+</td>
 
-🔗 [Ver projeto](https://github.com/ceciliaLimaa/API-Piadas)
----
+<td width="50%" valign="top">
+
+<h3>🎬 DSMovie - Testes em Aplicação Full Stack</h3>
+
+<p>
+Análise e validação de uma aplicação Full Stack composta por API REST em Spring Boot e interface web em ReactJS.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/QA_Testing-2563EB?style=for-the-badge"/>
+</p>
+
+<b>Competências:</b>
+
+<ul>
+<li>Testes funcionais</li>
+<li>Validação de regras de negócio</li>
+<li>Integração front-end e back-end</li>
+<li>Banco de dados</li>
+<li>Documentação QA</li>
+</ul>
+
+<b>Destaques:</b>
+
+<ul>
+<li>Validação de endpoints REST</li>
+<li>Fluxo de avaliação de filmes</li>
+<li>Persistência de dados</li>
+<li>Análise da experiência do usuário</li>
+</ul>
+
+<p align="center">
+<a href="LINK_DO_REPOSITORIO_DSMOVIE">
+<img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🐞 Casos de Teste e Gestão de Defeitos</h3>
+
+<p>
+Repositório dedicado à criação de cenários, casos de teste, documentação de bugs, evidências e relatórios de execução.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Testes_Manuais-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bugs-EA4335?style=for-the-badge"/>
+</p>
+
+<b>Competências:</b>
+
+<ul>
+<li>Testes funcionais</li>
+<li>Regressão</li>
+<li>Testes exploratórios</li>
+<li>Reporte de bugs</li>
+<li>Evidências</li>
+</ul>
+
+<b>Destaques:</b>
+
+<ul>
+<li>Casos de teste estruturados</li>
+<li>Bugs documentados com clareza</li>
+<li>Evidências organizadas</li>
+<li>Comunicação QA → Dev</li>
+</ul>
+
+<p align="center">
+<a href="LINK_DO_REPOSITORIO_TESTES_MANUAIS">
+<img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 Automação de Testes com Cypress</h3>
+
+<p>
+Projeto de evolução profissional com foco em automação de testes end-to-end utilizando Cypress e JavaScript.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/E2E_Testing-9333EA?style=for-the-badge"/>
+</p>
+
+<b>Competências:</b>
+
+<ul>
+<li>Cypress</li>
+<li>JavaScript</li>
+<li>Testes E2E</li>
+<li>Assertions</li>
+<li>Boas práticas de automação</li>
+</ul>
+
+<b>Destaques:</b>
+
+<ul>
+<li>Estrutura inicial de automação</li>
+<li>Validação de fluxos críticos</li>
+<li>Organização de testes</li>
+<li>Evolução contínua em automação</li>
+</ul>
+
+<p align="center">
+<a href="LINK_DO_REPOSITORIO_CYPRESS">
+<img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📊 Estatísticas QA
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=D6B56D&center=true&vCenter=true&width=850&lines=API+Testing+com+Postman;Testes+Manuais+e+Funcionais;SQL+para+valida%C3%A7%C3%A3o+de+dados;Automa%C3%A7%C3%A3o+em+evolu%C3%A7%C3%A3o+com+Cypress+e+Playwright;QA+com+IA+e+melhoria+cont%C3%ADnua" />
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧪 API Testing
+
+**Postman • Swagger • JSON**
+
+100+ requisições executadas  
+Validação de contratos  
+Cenários positivos e negativos  
+Relatórios de execução  
+
+</td>
+
+<td width="33%" align="center">
+
+### 🐞 Testes Manuais
+
+**Funcional • Regressão • Exploratório**
+
+Análise de requisitos  
+Casos de teste  
+Evidências organizadas  
+Reporte de bugs  
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄️ SQL para QA
+
+**Consultas • Dados • Regras**
+
+Validação de banco  
+Investigação de bugs  
+Regras de negócio  
+Apoio à análise técnica  
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+### 🤖 Automação
+
+**Cypress • Playwright • JS**
+
+Testes E2E  
+Assertions  
+Page Objects  
+Estudos contínuos  
+
+</td>
+
+<td width="33%" align="center">
+
+### 📈 Qualidade
+
+**Processo • Produto • Valor**
+
+Análise de risco  
+Melhoria contínua  
+Foco no usuário  
+Comunicação com o time  
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 QA + IA
+
+**Prompt • LLMs • Estratégia**
+
+Geração de cenários  
+Apoio à documentação  
+Análise de requisitos  
+Evolução profissional  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
