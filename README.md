@@ -223,33 +223,35 @@ Projeto de análise funcional e validação de um dashboard de vendas, com foco 
 
 <td width="50%" valign="top">
 
-<h3>🎬 DSMovie - Desenvolvimento Backend</h3>
+<h3>🎬 DSMovie - Desenvolvimento Backend API REST</h3>
 
 <p>
-Projeto de evolução profissional com foco em automação de testes end-to-end utilizando Cypress e JavaScript.
+Backend de uma aplicação de avaliação de filmes, desenvolvido durante a Semana Spring React da DevSuperior. API RESTful com autenticação e persistência em banco de dados relacional.
 </p>
 
 <b>Competências:</b>
 
 <ul>
-<li>Cypress</li>
-<li>JavaScript</li>
-<li>Testes E2E</li>
-<li>Assertions</li>
-<li>Boas práticas de automação</li>
+  <li>Java 17 + Spring Boot 2.6.3</li>
+  <li>Spring Data JPA + Hibernate</li>
+  <li>Spring Security</li>
+  <li>PostgreSQL (produção) / H2 (testes)</li>
+  <li>Maven</li>
 </ul>
 
 <b>Destaques:</b>
 
 <ul>
-<li>Estrutura inicial de automação</li>
-<li>Validação de fluxos críticos</li>
-<li>Organização de testes</li>
-<li>Evolução contínua em automação</li>
+  <li>✅ API REST para listagem e avaliação de filmes</li>
+  <li>✅ Sistema de pontuação por usuário (Score)</li>
+  <li>✅ Perfis de ambiente: dev, test e prod</li>
+  <li>✅ Banco de dados com seed de 28 filmes</li>
+  <li>✅ Segurança com Spring Security</li>
+  <li>✅ Deploy-ready com configuração para PostgreSQL</li>
 </ul>
 
 <p align="center">
-<a href="LINK_DO_REPOSITORIO_CYPRESS">
+<a href="https://github.com/ceciliaLimaa/dsmovie">
 <img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
