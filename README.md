@@ -26,11 +26,8 @@ Atualmente estou evoluindo meus estudos em **automação com Cypress, Playwright
 ---
 
 <div align="center">
-<a href="https://github.com/ceciliaLimaa/API-Piadas">
+<a href="https://www.linkedin.com/in/qa-ana-cecilia-lima/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="mailto:anacecilialima.ale@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
