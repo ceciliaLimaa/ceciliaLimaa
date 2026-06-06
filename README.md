@@ -102,10 +102,11 @@ Atualmente estou evoluindo meus estudos em **automação com Cypress, Playwright
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎭 QA Challenge - API de Piadas</h3>
+<h3>🎭 Desafio QA - API de Piadas</h3>
 
 <p>
-Validação funcional, análise de dados, execução em massa e testes de performance realizados na <b>Official Joke API</b> utilizando <b>Postman</b>
+Validação funcional, análise de dados, execução em massa e testes de desempenho realizados na API Official Joke utilizando **Postman**.
+  
 </p>
 
 <b>Competências:</b>
@@ -113,8 +114,9 @@ Validação funcional, análise de dados, execução em massa e testes de perfor
 <ul>
 <li>Teste de API REST</li>
 <li>Validação de campos e contratos</li>
+<li>Testes de funcionais</li>
 <li>Testes de performance</li>
-<li>Análise de riscos</li>
+<li> Análise de riscos</li>
 <li>Documentação de testes </li>
 <li>Relatórios executivos </li>
 </ul>
@@ -140,7 +142,7 @@ Validação funcional, análise de dados, execução em massa e testes de perfor
 
 <td width="50%" valign="top">
 
-<h3>🎬 DSMovie - Testes em Aplicação Full Stack</h3>
+<h3>🎬 DSMovie - Testes em Aplicação Backend</h3>
 
 <p>
 Análise e validação de uma aplicação Full Stack composta por API REST em Spring Boot e interface web em ReactJS.
@@ -166,7 +168,7 @@ Análise e validação de uma aplicação Full Stack composta por API REST em Sp
 </ul>
 
 <p align="center">
-<a href="LINK_DO_REPOSITORIO_DSMOVIE">
+<a href="https://github.com/ceciliaLimaa/dsmovie">
 <img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -177,33 +179,38 @@ Análise e validação de uma aplicação Full Stack composta por API REST em Sp
 <tr>
 <td width="50%" valign="top">
 
-<h3>🐞 Casos de Teste e Gestão de Defeitos</h3>
+<h3> 📊 Desafio QA - Dasboard de vendas </h3>
 
 <p>
-Repositório dedicado à criação de cenários, casos de teste, documentação de bugs, evidências e relatórios de execução.
+Projeto de análise funcional e validação de um dashboard de vendas, com foco em consistência de dados, regras de negócio, filtros, métricas e experiência do usuário.
 </p>
 
 <b>Competências:</b>
 
 <ul>
-<li>Testes funcionais</li>
-<li>Regressão</li>
-<li>Testes exploratórios</li>
-<li>Reporte de bugs</li>
-<li>Evidências</li>
+<li>Testes Funcionais</li>
+<li>Análise de Regras de Negócio</li>
+<li>Validação de Dashboards e KPIs</li>
+<li>Análise de Dados</li>
+<li>Testes Exploratórios</li>
+<li>Documentação de Bugs</li>
+<li>Análise de Riscos</li>
+<li>UX e Usabilidade</li>
 </ul>
 
 <b>Destaques:</b>
 
 <ul>
-<li>Casos de teste estruturados</li>
-<li>Bugs documentados com clareza</li>
-<li>Evidências organizadas</li>
-<li>Comunicação QA → Dev</li>
+<li>✅ 12 bugs identificados e documentados</li>
+<li>✅ Inconsistências críticas em métricas e filtros detectadas</li>
+<li>✅ Validação de cálculos de receita, pedidos e ticket médio</li>
+<li>✅ Análise de consistência entre cards, gráficos e tabelas</li>
+<li>✅ Avaliação de usabilidade e experiência do usuário</li>
+<li>✅ Relatório completo com evidências, severidade e prioridade</li>
 </ul>
 
 <p align="center">
-<a href="LINK_DO_REPOSITORIO_TESTES_MANUAIS">
+<a href="https://github.com/ceciliaLimaa/Analise-de-dashboard">
 <img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
