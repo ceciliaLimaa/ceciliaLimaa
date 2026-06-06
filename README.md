@@ -142,33 +142,37 @@ Validação funcional, análise de dados, execução em massa e testes de desemp
 
 <td width="50%" valign="top">
 
-<h3>🎬 DSMovie - Testes em Aplicação Backend</h3>
+<h3> 📝 Desafio QA - Documentação e Casos de Teste </h3>
 
 <p>
-Análise e validação de uma aplicação Full Stack composta por API REST em Spring Boot e interface web em ReactJS.
+Desafio focado em análise de problemas, elaboração de cenários de teste e construção de estratégias para melhoria contínua da qualidade de software.
 </p>
 
 <b>Competências:</b>
 
 <ul>
-<li>Testes funcionais</li>
-<li>Validação de regras de negócio</li>
-<li>Integração front-end e back-end</li>
-<li>Banco de dados</li>
-<li>Documentação QA</li>
+<li>Documentação de Defeitos</li>
+<li>Criação de Casos de Teste</li>
+<li>Testes Positivos, Negativos e de Borda</li>
+<li>Análise de Requisitos</li>
+<li>Análise de Riscos</li>
+<li>Planejamento de Qualidade</li>
+<li>Melhoria Contínua</li>
 </ul>
 
 <b>Destaques:</b>
 
 <ul>
-<li>Validação de endpoints REST</li>
-<li>Fluxo de avaliação de filmes</li>
-<li>Persistência de dados</li>
-<li>Análise da experiência do usuário</li>
+<li>✅ Documentação completa de problema de cadastro</li>
+<li>✅ Proposta de melhorias de UX e validação</li>
+<li>✅ 26 cenários de teste elaborados</li>
+<li>✅ Cobertura de casos positivos, negativos e de borda</li>
+<li>✅ Plano estratégico para redução de bugs em produção</li>
+<li>✅ Foco em qualidade desde a definição dos requisitos</li>
 </ul>
 
 <p align="center">
-<a href="https://github.com/ceciliaLimaa/dsmovie">
+<a href="https://github.com/ceciliaLimaa/Caso-de-Teste">
 <img src="https://img.shields.io/badge/Ver_Projeto-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -219,7 +223,7 @@ Projeto de análise funcional e validação de um dashboard de vendas, com foco 
 
 <td width="50%" valign="top">
 
-<h3>🤖 Automação de Testes com Cypress</h3>
+<h3>🎬 DSMovie - Desenvolvimento Backend</h3>
 
 <p>
 Projeto de evolução profissional com foco em automação de testes end-to-end utilizando Cypress e JavaScript.
