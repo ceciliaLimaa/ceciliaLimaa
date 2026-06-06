@@ -102,29 +102,32 @@ Atualmente estou evoluindo meus estudos em **automação com Cypress, Playwright
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧪 QA Challenge - API de Piadas</h3>
+<h3>🎭 QA Challenge - API de Piadas</h3>
 
 <p>
-Validação funcional, análise de dados, execução em massa e testes de performance realizados na <b>Official Joke API</b> utilizando <b>Postman</b>.
+Validação funcional, análise de dados, execução em massa e testes de performance realizados na <b>Official Joke API</b> utilizando <b>Postman</b>
 </p>
 
 <b>Competências:</b>
 
 <ul>
-<li>API Testing</li>
+<li>Teste de API REST</li>
 <li>Validação de campos e contratos</li>
 <li>Testes de performance</li>
 <li>Análise de riscos</li>
-<li>Relatórios executivos</li>
+<li>Documentação de testes </li>
+<li>Relatórios executivos </li>
 </ul>
 
 <b>Destaques:</b>
 
 <ul>
-<li>100 requisições executadas</li>
-<li>Validação de unicidade de IDs</li>
-<li>10 usuários virtuais simultâneos</li>
-<li>Identificação de riscos e melhorias</li>
+<li> ✅ 100 requisições executadas</li>
+<li> ✅ Validação de unicidade dos IDs</li>
+<li> ✅ Verificação de contratos e tipos de dados</li>
+<li> ✅ Simulação de 10 usuários virtuais simultâneos</li>
+<li> ✅ Identificação de riscos e oportunidades de melhoria</li>
+<li> ✅ Relatório de performance e análise de resultados</li>
 </ul>
 
 <p align="center">
